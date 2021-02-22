@@ -21,4 +21,4 @@ mcrypt
 libreadline-dev
 nodejs
 node-typescript
-libssl1.0-dev
+
